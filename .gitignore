@@ -1,0 +1,11 @@
+/shelf/
+/workspace.xml
+/.idea
+/venv
+/.venv
+/.env
+env
+/.vscode
+/*/.env
+/.DS_Store
+__pycache__/
